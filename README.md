@@ -29,8 +29,9 @@ A user has a lot of options to cancel their accidental actions. When a user want
 They are consistent with their fonts and colors. However, some of their icons are ambiguous in meaning and they have have two setting buttons, two speech bubble buttons, two add friend buttons and two hamburger icons used for different purposes. This confuses the user of what the function is for each button. They also use an unconventional profile symbol and call it the "Me" section. Their chart for the profile section also uses colors that make it look like they are clickable buttons, but they are not. They also have a place where you can accept challenges and when you accept a challenge it looks like a pressable button when it isn't a button.  
 **Misleading Looking Button:**  
 ![](https://jenlin5368.github.io/Assignment-1/button.jpg)  
-**Hamburger Icons with different functions:**    
+**Hamburger Icons with one function:**    
 ![](https://jenlin5368.github.io/Assignment-1/ham.jpg)  
+**Hamburger Icons with a different function:** 
 ![](https://jenlin5368.github.io/Assignment-1/ham2.jpg)  
 **#5: Error prevention**, Severity Rating: 0   
 To prevent a common error like accidentlly pressing the end run button, another button pops up to ask the users if they meant to press that button. This prevents accidental button pushes from occuring. They also make users fill out all fields of a running entry to ensure that there are not empty running logs.      
