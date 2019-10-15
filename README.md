@@ -2,8 +2,7 @@
 1. Heuristic Evaluation for the app Runkeeper
 2. Jennifer Lin DH 150
 3. I did my analysis on the app but here is the link to the website- https://runkeeper.com/
-This is the homepage screen
-![picture](https://jenlin5368.github.io/Assignment-1/home.png)
+/nThis is the homepage screen
 
 4. Heuristic Evaluations
 #1: Visibility of system status
