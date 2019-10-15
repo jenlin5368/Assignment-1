@@ -1,13 +1,13 @@
 # Assignment-1
 1. Heuristic Evaluation for the app Runkeeper  
 2. Jennifer Lin, DH 150  
-3. I did my analysis on the app but here is the link to the website- https://runkeeper.com/   
+3. I did my analysis for the app but here is the link to the website- https://runkeeper.com/   
 This is the logo and homepage screen:  
 ![](https://jenlin5368.github.io/Assignment-1/logo.jpg)  
 ![](https://jenlin5368.github.io/Assignment-1/home.PNG)  
-App Description:  
+**App Description:**  
 The purpose of the app is to keep track of a user's distance, time, pace and location while they are running. They also provide features where a person can keep track of their improvement, connect with other runners and create goals for themselves. They are helping to keep people accountable and motivate people to live a healthier lifestyle.   
-Overall Evaluation:  
+**Overall Evaluation:**  
 I've used this app before and I think this app serves its purpose and function, but I think that the interfaces are too crowded. Their target users are runners and they may be using this app while moving or with exhaustion so it needs to be made simpler. They have a lot of features crammed on each page and I think they should be more spread out into different tabs. I also think some things are hard to find on the app.
 
 4. Heuristic Evaluations  
