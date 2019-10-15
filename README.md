@@ -16,6 +16,7 @@ Runkeeper shows feedback everytime a user presses a button by darkening the colo
 Severity Rating: 0  
 Loading Clock:  
 ![](https://jenlin5368.github.io/Assignment-1/visibility.jpg)  
+  
 Navigation Bar:  
 ![](https://jenlin5368.github.io/Assignment-1/nav.jpg)  
 **#2: Match between system and the real world**  
