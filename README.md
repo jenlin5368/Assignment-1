@@ -23,12 +23,12 @@ I think the app could improve in this section. They use terms that are unclear t
 ![](https://jenlin5368.github.io/Assignment-1/word.jpg)  
 **#3: User control and freedom**, Severity Rating: 1  
 A user has a lot of options to cancel their actions. When a user wants to end their run or they want to delete a run, the app asks the user again to click another button to make sure they are sure of their decision. However, one thing I couldn't figure out was how to cancel a challenge after I have accepted it.    
-![](https://jenlin5368.github.io/Assignment-1/back.png)  
+![](https://jenlin5368.github.io/Assignment-1/back.PNG)  
 **#4: Consistency and standards**, Severity Rating: 3   
 They are consistent with their fonts and colors. However, some of their icons are ambiguous in meaning and they have have two setting buttons, two speech bubble buttons, two add friend buttons and two hamburger icons used for different purposes. This conduses the user of what the function is for each button. Their chart for the profile also uses colors that make it look like they are clickable buttons, but they are not. They also have a place where you can accept challenges and when you accept a challenge it looks like a button when it isn't a button.  
-Misleading Looking Button:  
+**Misleading Looking Button:**  
 ![](https://jenlin5368.github.io/Assignment-1/button.jpg)  
-Hamburger Icons with different functions:    
+**Hamburger Icons with different functions:**    
 ![](https://jenlin5368.github.io/Assignment-1/ham.jpg)  
 ![](https://jenlin5368.github.io/Assignment-1/ham2.jpg)  
 **#5: Error prevention**, Severity Rating: 0   
@@ -41,6 +41,9 @@ This app automatically keeps track of users past runs and times, so users don't 
 This app is not flexible for keeping track of other exercise methodologies or with keeping track of other forms of fitness. This is mostly just for cardio. The app is also not able to personalize for a novice vs. expert users. It is also not efficient for users to use as the user interface is too busy and requires a lot of buttom pushing.    
 **#8: Aesthetic and minimalist design**, Severity Rating: 3  
 I think this app suffers mostly in this category. It has too much happening on each page. Some features should be put elsewhere and more hidden especially if they aren't commonly used features. If a user is running, they need a simple and large button interface to use while they are moving. They also have too many options and buttons that slow down and confuse the user when they are using the app.They have two add friend options.  
+**Too Busy of Interface**  
+![](https://jenlin5368.github.io/Assignment-1/busy.PNG) 
+![](https://jenlin5368.github.io/Assignment-1/busy2.PNG) 
 **#9: Help users recognize, diagnose, and recover from errors**, Severity Rating: 1    
 Runkeeper doesn't really provide error messages. I haven't faced any errors yet, but I assume since it is an app, if there was an issue, it would close automatically and restart the app from the home page without any error message. This doesn't help tell the user what is wrong though.   
 **#10: Help and documentation**, Severity Rating: 1  
