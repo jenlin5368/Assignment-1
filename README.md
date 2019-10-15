@@ -35,19 +35,19 @@ They are consistent with their fonts and colors. However, some of their icons ar
 ![](https://jenlin5368.github.io/Assignment-1/ham2.jpg)  
 **#5: Error prevention**, Severity Rating: 0   
 To prevent a common error like accidentlly pressing the end run button, another button pops up to ask the users if they meant to press that button. This prevents accidental button pushes from occuring. They also make users fill out all fields of a running entry to ensure that there are not empty running logs. 
-**Running Log Errors**  
+**Running Log Errors:**  
 ![](https://jenlin5368.github.io/Assignment-1/error.PNG)  
 **#6: Recognition rather than recall**, Severity Rating: 0  
 This app automatically keeps track of users past runs and times, so users don't have to remember what their best times are and if they improved or not. For manual running entries they also provide specific information to fill in so users don't have to think of what they need to write down.  
-**Past Runs**  
+**Past Runs:**  
 ![](https://jenlin5368.github.io/Assignment-1/past.jpg)  
 **#7: Flexibility and efficiency of use**, Severity Rating: 1  
 This app is not flexible for keeping track of other exercise methodologies or with keeping track of other forms of fitness. This app is just for cardio. The app is also not able to personalize for a novice vs. expert user. It is also not efficient for users to use as the user interface is too busy and requires a lot of button pushing.    
 **#8: Aesthetic and minimalist design**, Severity Rating: 3  
-I think this app suffers most in this category as too much is happening on each page. Some features should not be put on a main screen if they aren't commonly used features. If a user is running, they need a simple and large buttoned interface to make it easier to press a button while running. With too many options and buttons, it also slows down and confuses the user when they are using the app the first time. They also have too much text for each symbol.
-**Too Busy of Profile Page**  
-![](https://jenlin5368.github.io/Assignment-1/busy.PNG) 
-![](https://jenlin5368.github.io/Assignment-1/busy2.PNG) 
+I think this app suffers most in this category as too much is happening on each page. Some features should not be put on a main screen if they aren't commonly used features. If a user is running, they need a simple and large buttoned interface to make it easier to press a button while running. With too many options and buttons, it also slows down and confuses the user when they are using the app the first time. They also have too much text for each symbol.  
+**Busy Profile Page:**  
+![](https://jenlin5368.github.io/Assignment-1/busy.PNG)  
+![](https://jenlin5368.github.io/Assignment-1/busy2.PNG)   
 **#9: Help users recognize, diagnose, and recover from errors**, Severity Rating: 1    
 Runkeeper doesn't really provide error messages. I haven't faced any errors yet, but I assume since it is an app that it would close automatically and restart the app from the home page without any error messages. This doesn't help tell the user what is wrong though.   
 **#10: Help and documentation**, Severity Rating: 1  
