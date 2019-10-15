@@ -18,7 +18,7 @@ Runkeeper shows feedback everytime a user presses a button by darkening the colo
 **Blue Icon Navigation Bar:**  
 ![](https://jenlin5368.github.io/Assignment-1/nav.jpg)  
 **#2: Match between system and the real world**, Severity Rating: 2  
-I think the app could improve in this section. They use terms that are unclear and vague to new users like "Free Run", "My First 5K" and "Feed". There are better ways to explain and simplify these wordingd. Also, some of the other terms they use are understandable, but vague in describing the function. They also use a lot of icons to represent the functions of their buttons and some of the symbols are unclear. To be more explicit they add wording next to each icon which makes the screen look even  busier.  
+I think the app could improve in this section. They use terms that are unclear and vague to new users like "Free Run", "My First 5K" and "Feed". There are better ways to explain and simplify these wordings. Also, some of the other terms they use are understandable, but vague in describing the function. They also use a lot of icons to represent the functions of their buttons and some of the symbols are unclear. To be more explicit they add wording next to each icon which makes the screen look even  busier.  
 **Unclear Terms:**  
 ![](https://jenlin5368.github.io/Assignment-1/word.jpg)  
 **#3: User control and freedom**, Severity Rating: 1  
