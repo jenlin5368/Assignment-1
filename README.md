@@ -6,7 +6,7 @@ This is the logo and homepage screen:
 ![](https://jenlin5368.github.io/Assignment-1/logo.jpg)  
 ![](https://jenlin5368.github.io/Assignment-1/home.PNG)  
 **App Description:**  
-The purpose of the app is to keep track of a user's distance, time, pace and location while they are running. They also provide features where a person can keep track of their improvement, connect with other runners and create goals for themselves. This app is helping to keep people accountable and motivating people to live a healthier lifestyle thorugh cardio.   
+The purpose of the app is to keep track of a user's distance, time, pace and location while they are running. They also provide features where a person can keep track of their improvement, connect with other runners and create goals for themselves. This app is helping to keep people accountable and motivating people to live a healthier lifestyle thorugh cardio.  
 **Overall Evaluation:**  
 I've used this app before and I think that it serves its purpose and function. However, I think that the interfaces are too crowded with too many buttons and text on each screen. Their target users are runners that may be using this app while moving so it needs to have a simpler interface with only important buttons. With too many features, more important features are harder to find on the app or take longer as there are more buttons to navigate through. Some of the icons and wordings are also confusing and inconsistent.
 
@@ -23,7 +23,7 @@ I think the app could improve in this section. They use terms that are unclear a
 ![](https://jenlin5368.github.io/Assignment-1/word.jpg)  
 **#3: User control and freedom**, Severity Rating: 1  
 A user has a lot of options to cancel their accidental actions. When a user wants to end their run or  want to delete a run, the app asks the user again to click another button to make sure they are sure of their decision. However, one thing I couldn't figure out was how to cancel a challenge after I have accepted it. I was frusterated with not being able to go back on the challenge acceptance.   
-**Cancel Buttons**  
+**Cancel Buttons:**  
 ![](https://jenlin5368.github.io/Assignment-1/back.PNG)  
 **#4: Consistency and standards**, Severity Rating: 3   
 They are consistent with their fonts and colors. However, some of their icons are ambiguous in meaning and they have have two setting buttons, two speech bubble buttons, two add friend buttons and two hamburger icons used for different purposes. This confuses the user of what the function is for each button. They also use an unconventional profile symbol and call it the "Me" section. Their chart for the profile section also uses colors that make it look like they are clickable buttons, but they are not. They also have a place where you can accept challenges and when you accept a challenge it looks like a pressable button when it isn't a button. When it is not consistent, it makes users confused and press wrong buttons.  
@@ -34,8 +34,8 @@ They are consistent with their fonts and colors. However, some of their icons ar
 **Hamburger Icon with a different function:** 
 ![](https://jenlin5368.github.io/Assignment-1/ham2.jpg)  
 **#5: Error prevention**, Severity Rating: 0   
-To prevent a common error like accidentlly pressing the end run button, another button pops up to ask the users if they meant to press that button. This prevents accidental button pushes from occuring. They also make users fill out all fields of a running entry to ensure that there are not empty running logs. 
-**Running Log Errors:**  
+To prevent a common error like accidentlly pressing the end run button, another button pops up to ask the users if they meant to press that button. This prevents accidental button pushes from occuring. They also make users fill out all fields of a running entry to ensure that there are not empty running logs.   
+**Running Log:**  
 ![](https://jenlin5368.github.io/Assignment-1/error.PNG)  
 **#6: Recognition rather than recall**, Severity Rating: 0  
 This app automatically keeps track of users past runs and times, so users don't have to remember what their best times are and if they improved or not. For manual running entries they also provide specific information to fill in so users don't have to think of what they need to write down.  
