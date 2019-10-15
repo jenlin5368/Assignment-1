@@ -14,15 +14,15 @@ I've used this app before and I think this app serves its purpose and function, 
 **#1: Visibility of system status**  
 Runkeeper shows feedback everytime a user presses a button by darkening the color of the button and indicates where a user is on the navigation bar with a  blue color. The app also shows button feedback by immediately navigating to the new page. For the tracking feature, they have audio that states when a user starts, pauses or resumes the app to help the user be aware which button they pressed. The only loading icon they had was when you create a goal, it has a loading clock to show that it is creating your goal.  
 Severity Rating: 0  
-Loading Clock:  
+**Loading Clock:**  
 ![](https://jenlin5368.github.io/Assignment-1/visibility.jpg)  
   
-Navigation Bar:  
+**Navigation Bar:**  
 ![](https://jenlin5368.github.io/Assignment-1/nav.jpg)  
 **#2: Match between system and the real world**  
 I think the app could improve in this section. They use terms that are unclear to new users like "Free Run", "My First 5K" and "Feed". Also, some of the terms they use are understandable, but vague in describing the function. They also use a lot of icons to represent the functions of their buttons and some of the symbols are unclear. For example, the profile button is a smiley face instead of the usual icon and it is called "Me".   
 Severity Rating: 2  
-Unclear Terms:  
+**Unclear Terms:**  
 ![](https://jenlin5368.github.io/Assignment-1/word.jpg)  
 **#3: User control and freedom**  
 A user has a lot of options to cancel their actions. When a user wants to end their run or they want to delete a run, the app asks the user again to click another button to make sure they are sure of their decision. However, one thing I couldn't figure out was how to cancel a challenge after I have accepted it.    
