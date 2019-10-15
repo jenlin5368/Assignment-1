@@ -12,21 +12,21 @@ I've used this app before and I think that it serves its purpose and function. H
 
 4. Heuristic Evaluations  
 **#1: Visibility of system status**, Severity Rating: 0    
-Runkeeper shows feedback everytime a user presses a button by darkening the color of the button and immediately navigating to the new page. They also indicate where a user is on the navigation bar with a bright blue color. For the tracking feature, they have audio that states when a user starts, pauses or resumes the app to help the user be aware which button they pressed. They also have a a loading clock to show that things are loading. Overall, the user is never confused or unaware if their action was processed or not.
+Runkeeper shows feedback everytime a user presses a button by darkening the color of the button and immediately navigating to the new page. They also indicate where a user is on the navigation bar with a bright blue color. For the tracking feature, they have audio that states when a user starts, pauses or resumes the app to help the user be aware which button they pressed. They also have a a loading clock to show that things are loading. Overall, the user is never confused or unaware if their action was processed or not.  
 **Loading Symbol:**  
 ![](https://jenlin5368.github.io/Assignment-1/visibility.jpg)  
 **Blue Icon Navigation Bar:**  
 ![](https://jenlin5368.github.io/Assignment-1/nav.jpg)  
 **#2: Match between system and the real world**, Severity Rating: 2  
-I think the app could improve in this section. They use terms that are unclear and vague to new users like "Free Run", "My First 5K" and "Feed". There are better ways to explain and simplify these wordings. Also, some of the other terms they use are understandable, but vague in describing the function. They also use a lot of icons to represent the functions of their buttons and some of the symbols are unclear. To be more explicit they add wording next to each icon which makes the screen look even  busier.  
+I think the app could improve in this section. They use terms that are unclear and vague to new users like "Free Run", "My First 5K" and "Feed". There are better ways to explain and simplify these wordings. Also, some of the other terms they use are understandable, but vague in describing the function. They also use a lot of icons to represent the functions of their buttons and some of the symbols are unclear. To be more explicit they add wording next to each icon which makes the screen look too  busy.  
 **Unclear Terms:**  
 ![](https://jenlin5368.github.io/Assignment-1/word.jpg)  
 **#3: User control and freedom**, Severity Rating: 1  
-A user has a lot of options to cancel their accidental actions. When a user wants to end their run or  want to delete a run, the app asks the user again to click another button to make sure they are sure of their decision. However, one thing I couldn't figure out was how to cancel a challenge after I have accepted it.  
+A user has a lot of options to cancel their accidental actions. When a user wants to end their run or  want to delete a run, the app asks the user again to click another button to make sure they are sure of their decision. However, one thing I couldn't figure out was how to cancel a challenge after I have accepted it. I was frusterated with not being able to go back on the challenge acceptance.   
 **Cancel Buttons**  
 ![](https://jenlin5368.github.io/Assignment-1/back.PNG)  
 **#4: Consistency and standards**, Severity Rating: 3   
-They are consistent with their fonts and colors. However, some of their icons are ambiguous in meaning and they have have two setting buttons, two speech bubble buttons, two add friend buttons and two hamburger icons used for different purposes. This confuses the user of what the function is for each button. They also use an unconventional profile symbol and call it the "Me" section. Their chart for the profile section also uses colors that make it look like they are clickable buttons, but they are not. They also have a place where you can accept challenges and when you accept a challenge it looks like a pressable button when it isn't a button.  
+They are consistent with their fonts and colors. However, some of their icons are ambiguous in meaning and they have have two setting buttons, two speech bubble buttons, two add friend buttons and two hamburger icons used for different purposes. This confuses the user of what the function is for each button. They also use an unconventional profile symbol and call it the "Me" section. Their chart for the profile section also uses colors that make it look like they are clickable buttons, but they are not. They also have a place where you can accept challenges and when you accept a challenge it looks like a pressable button when it isn't a button. When it is not consistent, it makes users confused and press wrong buttons.  
 **Misleading Challenge Button:**  
 ![](https://jenlin5368.github.io/Assignment-1/button.jpg)  
 **Hamburger Icon with one function:**    
