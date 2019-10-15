@@ -4,6 +4,8 @@
 3. I did my analysis on the app but here is the link to the website- https://runkeeper.com/
 
 This is the homepage screen:
+![hi2](https://jenlin5368.github.io/Assignment-1/home.png)
+
 
 The purpose of the app is to keep track of a user's running distance, pace and location while they are running. It also helps a person keep track of all the runs they do, connect with other runners in the world and create goals for themselves. I've used this app before and I think this app is able to serve its purpose and function, but I think that the interfaces are too crowded and could be made simpler. They have a lot of features crammed on each page and I think they should be more spread out into different tabs. I also think the app can be hard to use sometimes as it is hard to find some features of the app.
 
