@@ -27,23 +27,25 @@ A user has a lot of options to cancel their accidental actions. When a user want
 ![](https://jenlin5368.github.io/Assignment-1/back.PNG)  
 **#4: Consistency and standards**, Severity Rating: 3   
 They are consistent with their fonts and colors. However, some of their icons are ambiguous in meaning and they have have two setting buttons, two speech bubble buttons, two add friend buttons and two hamburger icons used for different purposes. This confuses the user of what the function is for each button. They also use an unconventional profile symbol and call it the "Me" section. Their chart for the profile section also uses colors that make it look like they are clickable buttons, but they are not. They also have a place where you can accept challenges and when you accept a challenge it looks like a pressable button when it isn't a button.  
-**Misleading Looking Button:**  
+**Misleading Challenge Button:**  
 ![](https://jenlin5368.github.io/Assignment-1/button.jpg)  
-**Hamburger Icons with one function:**    
+**Hamburger Icon with one function:**    
 ![](https://jenlin5368.github.io/Assignment-1/ham.jpg)  
-**Hamburger Icons with a different function:** 
+**Hamburger Icon with a different function:** 
 ![](https://jenlin5368.github.io/Assignment-1/ham2.jpg)  
 **#5: Error prevention**, Severity Rating: 0   
-To prevent a common error like accidentlly pressing the end run button, another button pops up to ask the users if they meant to press that button. This prevents accidental button pushes from occuring. They also make users fill out all fields of a running entry to ensure that there are not empty running logs.      
+To prevent a common error like accidentlly pressing the end run button, another button pops up to ask the users if they meant to press that button. This prevents accidental button pushes from occuring. They also make users fill out all fields of a running entry to ensure that there are not empty running logs. 
+**Running Log Errors**  
 ![](https://jenlin5368.github.io/Assignment-1/error.PNG)  
 **#6: Recognition rather than recall**, Severity Rating: 0  
 This app automatically keeps track of users past runs and times, so users don't have to remember what their best times are and if they improved or not. For manual running entries they also provide specific information to fill in so users don't have to think of what they need to write down.  
-![](https://jenlin5368.github.io/Assignment-1/recall.PNG)  
+**Past Runs**  
+![](https://jenlin5368.github.io/Assignment-1/past.jpg)  
 **#7: Flexibility and efficiency of use**, Severity Rating: 1  
-This app is not flexible for keeping track of other exercise methodologies or with keeping track of other forms of fitness. This app is mostly just for cardio. The app is also not able to personalize for a novice vs. expert user. It is also not efficient for users to use as the user interface is too busy and requires a lot of button pushing.    
+This app is not flexible for keeping track of other exercise methodologies or with keeping track of other forms of fitness. This app is just for cardio. The app is also not able to personalize for a novice vs. expert user. It is also not efficient for users to use as the user interface is too busy and requires a lot of button pushing.    
 **#8: Aesthetic and minimalist design**, Severity Rating: 3  
 I think this app suffers most in this category as too much is happening on each page. Some features should not be put on a main screen if they aren't commonly used features. If a user is running, they need a simple and large buttoned interface to make it easier to press a button while running. With too many options and buttons, it also slows down and confuses the user when they are using the app the first time. They also have too much text for each symbol.
-**Too Busy of Interface**  
+**Too Busy of Profile Page**  
 ![](https://jenlin5368.github.io/Assignment-1/busy.PNG) 
 ![](https://jenlin5368.github.io/Assignment-1/busy2.PNG) 
 **#9: Help users recognize, diagnose, and recover from errors**, Severity Rating: 1    
@@ -52,4 +54,4 @@ Runkeeper doesn't really provide error messages. I haven't faced any errors yet,
 Runkeeper also doesn't have a help or tutorial section. They don't explain how to use the app or have any instructions, so users have to figure it out themselves.  
 
 **Overall Fixes and Priorities:**    
-UX designers are limited time and can only work on a few issues at a time. Thus they need to learn to prioritize the most severe problems. In this case I think the top priority would be fixing Aesthetic and Minimalist Design or Consistency and Standards. Runkeeper has the most issues with these two categories. These issues make it harder for the user to use the app and navigate through. They may not know where to find certain featuers or may accidentally press incorrect buttons. This can cause users to be frusterated or overwhelmed and want to use another app. The other less severe qualities are more like nice to have features, but not a necessity. They are also not noticeable to a novice users while the servere issues are obvious and easily noticeble from first time the user opens the app.
+UX designers are limited time and can only work on a few issues at a time. Thus they need to learn to prioritize the most severe problems. In this case I think the top priority would be fixing Aesthetic and Minimalist Design or Consistency and Standards. Runkeeper has the most issues with these two categories. These issues make it harder for the user to use the app and navigate through. They may not know where to find certain featuers or may accidentally press incorrect buttons. This can cause users to be frusterated or overwhelmed and desire to use a different app. The other less severe qualities are more like nice to have features, but not a necessity. They are also not noticeable to a novice user while the severe issues are obvious from the first moment a user opens the app.
